@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于
+title: 私选网站
 permalink: /about.html
 ---
 
